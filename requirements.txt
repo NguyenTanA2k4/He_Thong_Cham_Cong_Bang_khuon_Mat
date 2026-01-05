@@ -1,0 +1,10 @@
+customtkinter
+pillow
+opencv-python
+ultralytics
+torch
+torchvision
+scipy
+facenet-pytorch
+pandas
+mediapipe
